@@ -1,0 +1,10 @@
+public interface Cell{
+
+    
+
+    public void chooseNextLocation(location newLocation){
+        List<Move> moves = Array
+    }
+
+
+}
